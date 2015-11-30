@@ -1,3 +1,12 @@
+B.S.ABDUR RAMAN UNIVERSITY  ----  Online Aptitude Website
+
+Created By
+	ABDUL RAZAK M
+	ARAVIND J
+Instructed By
+	Dr.R.SHRIRAM 
+
+
 Step1
 Install XAMPP
 
